@@ -1,6 +1,6 @@
 # FeedPress Subscribers Status Board Graph Panel
 
-v1.0 • released 2014-01-19 • [Download on GitHub](https://github.com/bobtiki) • [Full Write-up](http://wp.me/p3sLxU-uf)
+v1.0 • released 2014-01-19 • [Download on GitHub](https://github.com/bobtiki/FeedPress-Subscribers-Status-Board-Graph-Panel) • [Full Write-up](http://wp.me/p3sLxU-uf)
 
 ![Panel shown with sample data from The Optical podcast.](Feedpress-Subscribers-Status-Board-Graph-Panel-JSON.png)
 
