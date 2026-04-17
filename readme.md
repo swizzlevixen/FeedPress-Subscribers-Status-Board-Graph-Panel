@@ -1,6 +1,6 @@
 > [!NOTE]
 > 
-> This product has been discontinued for quite some time, and im now getting spam issues, so this project will be archived to read-only.
+> This product has been discontinued for quite some time, and I'm now getting spam issues, so this project will be archived to read-only.
 
 # FeedPress Subscribers Status Board Graph Panel
 
