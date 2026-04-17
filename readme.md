@@ -1,3 +1,7 @@
+> [!NOTE]
+> 
+> This product has been discontinued for quite some time, and im now getting spam issues, so this project will be archived to read-only.
+
 # FeedPress Subscribers Status Board Graph Panel
 
 v1.0 • released 2014-01-19 • [Download on GitHub](https://github.com/bobtiki/FeedPress-Subscribers-Status-Board-Graph-Panel) • [Full Write-up](http://wp.me/p3sLxU-uf)
